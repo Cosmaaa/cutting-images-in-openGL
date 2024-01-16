@@ -1,0 +1,5 @@
+﻿  operations.cpp
+C:\Users\Andrei\Desktop\pixeltransfer\operations.cpp(259,11): warning C4101: 'i': unreferenced local variable
+C:\Users\Andrei\Desktop\pixeltransfer\operations.cpp(258,13): warning C4101: 'invertMap': unreferenced local variable
+C:\Users\Andrei\Desktop\pixeltransfer\operations.cpp(256,11): warning C4101: 'iViewport': unreferenced local variable
+  Grafica7.vcxproj -> C:\Users\Andrei\Desktop\Grafica7\Debug\Grafica7.exe
